@@ -24,8 +24,8 @@ ajax_get('http://localhost:1111', function(data) {
            html += "<th>" + "Event" + "</th>"  +"<th>" + "ID" + "</th>" + "<th>" + "Position" + "</th>"
           + "<th>" + "First name" + "</th>" + "<th>" + "Last name" + "</th>"
           + "<th>" + "Gender" + "</th>" + "<th>" + "Birth Date" + "</th>"
-            + "<th>" + "Login" + "</th>" + "<th>" + "Email" + "</th>"
-             + "<th>" + "Avatar" + "</th>";
+          + "<th>" + "Login" + "</th>" + "<th>" + "Email" + "</th>"
+          + "<th>" + "Avatar" + "</th>";
 window.Employees = data;
     html += "<tr>" + getEmployeeRowsHtml(null).join("</tr><tr>") + "</tr>";
     html += "</table>";
