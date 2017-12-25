@@ -1,0 +1,211 @@
+[
+{
+"id": "1",
+"bossid": null,
+"firstName":"Graham",
+"lastName":"Simon",
+"gender":"Male",
+"birthDate":"04-11-1973",
+"userName":"grahamsimon",
+"email":"ksimon822@nomislladnek.com",
+"avatar": "https://randomuser.me/api/portraits/men/24.jpg"
+},
+{
+"id": 2,
+"bossid": 1,
+"firstName":"Mckenna",
+"lastName":"Perez",
+"gender":"Female",
+"birthDate":"15-03-2016",
+"userName":"mckennaperez",
+"email":"mperez279@zerepannekcm.org",
+"avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+},
+{
+"id": 3,
+"bossid": 1,
+"firstName":"Caleb",
+"lastName":"Hammond",
+"gender":"Male",
+"birthDate":"23-04-1938",
+"userName":"calebhammond",
+"email":"chammond418@dnommahbelac.com",
+"avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+},
+{
+"id": 4,
+"bossid": 2,
+"firstName":"Tessa",
+"lastName":"Wang",
+"gender":"Female",
+"birthDate":"02-10-1968",
+"userName":"tessawang",
+"email":"twang362@gnawasset.net",
+"avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+},
+{
+"id": 5,
+"bossid": 2,
+"firstName":"Michele",
+"lastName":"Barker",
+"gender":"Female",
+"birthDate":"20-10-2010",
+"userName":"michelebarker",
+"email":"mbarker190@rekrabelehcim.org",
+"avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+},
+{
+"id": 6,
+"bossid": 2,
+"firstName":"Jacob",
+"lastName":"Marshall",
+"gender":"Male",
+"birthDate":"27-10-1956",
+"userName":"jacobmarshall",
+"email":"jmarshall132@llahsrambocaj.biz",
+"avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+},
+{
+"id": 7,
+"bossid": 6,
+"firstName":"Lee",
+"lastName":"Patton",
+"gender":"Male",
+"birthDate":"10-09-1957",
+"userName":"leepatton",
+"email":"lpatton141@nottapeel.net",
+"avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+},
+{
+"id": 8,
+"bossid": 7,
+"firstName":"Randall",
+"lastName":"Jennings",
+"gender":"Male",
+"birthDate":"23-01-1941",
+"userName":"randalljennings",
+"email":"rjennings122@sgninnejlladnar.org",
+"avatar": "https://randomuser.me/api/portraits/men/8.jpg"
+},
+{
+"id": 9,
+"bossid": 3,
+"firstName":"Kendall",
+"lastName":"Carlson",
+"gender":"Male",
+"birthDate":"25-02-1994",
+"userName":"kendalcarlson",
+"email":"gcarlson514@noslracmaharg.net",
+"avatar": "https://randomuser.me/api/portraits/men/9.jpg"
+},
+{
+"id": 10,
+"bossid": 1,
+"firstName":"Ruben",
+"lastName":"Ortiz",
+"gender":"Male",
+"birthDate":"05-05-1982",
+"userName":"rubenortiz",
+"email":"rortiz324@zitronebur.net",
+"avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+},
+{
+"id": 11,
+"bossid": 6,
+"firstName":"Lisa",
+"lastName":"Lyons",
+"gender":"Female",
+"birthDate":"12-06-2010",
+"userName":"lisalyons",
+"email":"llyons20@snoylasil.org",
+"avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+},
+{
+"id": 12,
+"bossid": 5,
+"firstName":"Liliana",
+"lastName":"Vazquez",
+"gender":"Female",
+"birthDate":"21-06-1979",
+"userName":"lilianavazquez",
+"email":"lvazquez182@zeuqzavanailil.com",
+"avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+},
+{
+"id": 14,
+"bossid": 1,
+"firstName":"Julius",
+"lastName":"Price",
+"gender":"Male",
+"birthDate":"02-04-2012",
+"userName":"juliusprice",
+"email":"jprice872@ecirpsuiluj.biz",
+"avatar": "https://randomuser.me/api/portraits/men/14.jpg"
+},
+{
+"id": 15,
+"bossid": 4,
+"firstName":"Nicolas",
+"lastName":"Peterson",
+"gender":"Male",
+"birthDate":"10-03-1941",
+"userName":"nicolaspeterson",
+"email":"npeterson138@nosretepsalocin.biz",
+"avatar": "https://randomuser.me/api/portraits/men/15.jpg"
+},
+{
+"id": 16,
+"bossid": 4,
+"firstName":"Makayla",
+"lastName":"Jensen",
+"gender":"Female",
+"birthDate":"21-07-2010",
+"userName":"makaylajensen",
+"email":"mjensen591@nesnejalyakam.biz",
+"avatar": "https://randomuser.me/api/portraits/women/16.jpg"
+},
+{
+"id": 17,
+"bossid": 4,
+"firstName":"Davis",
+"lastName":"Le",
+"gender":"Male",
+"birthDate":"15-04-1969",
+"userName":"davisle",
+"email":"dle610@elsivad.org",
+"avatar": "https://randomuser.me/api/portraits/men/17.jpg"
+},
+{
+"id": 18,
+"bossid": 4,
+"firstName":"Thomas",
+"lastName":"Perry",
+"gender":"Male",
+"birthDate":"27-10-1985",
+"userName":"thomasperry",
+"email":"tperry645@yrrepsamoht.biz",
+"avatar": "https://randomuser.me/api/portraits/men/18.jpg"
+},
+{
+"id": 19,
+"bossid": 4,
+"firstName":"Asia",
+"lastName":"Rodriguez",
+"gender":"Female",
+"birthDate":"03-07-1923",
+"userName":"asiarodriguez",
+"email":"arodriguez488@zeugirdoraisa.org",
+"avatar": "https://randomuser.me/api/portraits/women/19.jpg"
+},
+{
+"id": 20,
+"bossid": 4,
+"firstName":"Sophia",
+"lastName":"Nunez",
+"gender":"Female",
+"birthDate":"09-06-1993",
+"userName":"sophianunez",
+"email":"snunez403@zenunaihpos.net",
+"avatar": "https://randomuser.me/api/portraits/women/20.jpg"
+}
+]
